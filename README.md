@@ -1,6 +1,10 @@
 # hello-world
 just another repository
-in meadme-edits branch
 
-start one firm plan,bravo!
+
+It's in start one firm plan,
+bravo!
 Mark ZhengWei
+
+2017/12/7
+in meadme-edits branch
